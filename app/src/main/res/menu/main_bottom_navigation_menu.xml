@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:enabled="true"
+
+        android:id="@+id/nav_pad1"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="a" />
+
+    <item
+        android:id="@+id/nav_pad2"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="a" />
+
+    <item
+        android:id="@+id/nav_pad3"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="a" />
+    <item
+        android:id="@+id/nav_pad4"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="a" />
+
+
+</menu>
+
+
